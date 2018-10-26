@@ -2,7 +2,9 @@
   min-height: 56px;
   background:#eaeaea;
 }
-
+img{
+  border-radius: 50%;
+}
 .nav-item {
   float: right;
 }
